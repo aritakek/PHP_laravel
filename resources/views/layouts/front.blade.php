@@ -76,6 +76,7 @@
             
             <main class="py-4">
             @yield('content')
+            <p>php/laravel_15 課題</p>
             </main>
         </div>
     </body>
